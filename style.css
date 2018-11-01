@@ -168,4 +168,7 @@ fieldset{
   #zip{
     width: 35%;
   }
+  #label-for-textarea{
+    width: 100%;
+  }
 }
